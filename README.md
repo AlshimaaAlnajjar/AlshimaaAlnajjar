@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Alshimaa Alnajjar 👋
 
-<!--
-**AlshimaaAlnajjar/AlshimaaAlnajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Full Stack Developer
 
-Here are some ideas to get you started:
+I am a passionate Full Stack Developer focused on building modern, responsive, and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming ideas into real-world solutions using clean code, user-friendly interfaces, and efficient backend systems.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- TypeScript
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- C#
+- ASP.NET Core MVC
+- ASP.NET Core Web API
+- Entity Framework Core
+
+### Database
+- SQL Server
+- T-SQL
+
+### Tools
+- Git & GitHub
+- Visual Studio
+- VS Code
+
+---
+
+## 🚀 Currently Working On
+
+- Building Full Stack applications using React and ASP.NET Core
+- Improving software architecture and clean code practices
+- Creating professional portfolio projects
+
+---
+
+## 📌 Featured Projects
+
+Coming soon...
+
+---
+
+## 📫 Contact Me
+
+- LinkedIn: Add your LinkedIn link here
+- GitHub: https://github.com/AlshimaaAlnajjar
