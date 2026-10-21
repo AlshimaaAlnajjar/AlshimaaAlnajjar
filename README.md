@@ -286,19 +286,9 @@ Contributed to front-end development of web interfaces with a focus on responsiv
 
 <div align="center">
 
-<a href="#contribution-activity"><img src="https://ghchart.rshah.org/7C3AED/AlshimaaAlnajjar" width="100%" alt="Contribution chart"/></a>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlshimaaAlnajjar/AlshimaaAlnajjar/output/github-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/AlshimaaAlnajjar/AlshimaaAlnajjar/output/github-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/AlshimaaAlnajjar/AlshimaaAlnajjar/output/github-snake.svg" width="100%" alt="Contribution snake"/>
 </picture>
 
 </div>
