@@ -37,9 +37,9 @@
 
 I am a **Full-Stack Web Developer** based in Gaza, Palestine, and a **Smart Systems Engineering** student at Al-Aqsa University. I specialize in building fast, responsive, and maintainable web applications with **React.js, TypeScript, and ASP.NET Core**.
 
-Through my Full-Stack Diploma at **Route Academy** and hands-on industry experience, I build component-based front-ends, integrate RESTful APIs, and design back-end services with clean architecture in mind. My design background in **Figma** lets me bridge the gap between design and engineering — shipping interfaces that are both visually polished and technically solid.
+Through my Full-Stack Diploma at **Route Academy** and hands-on industry experience, I build component-based front-ends, integrate RESTful APIs, and develop back-end services with clean architecture in mind.
 
-I approach every project with a **product engineering mindset**: understand the user, design the experience, build it cleanly, and measure the impact.
+I approach every project with a **product engineering mindset**: understand the problem, build it cleanly, and deliver real value to users.
 
 **Open To**
 
@@ -55,7 +55,6 @@ I approach every project with a **product engineering mindset**: understand the 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs&theme=dark"/>
-  <img src="https://img.shields.io/badge/SQL-4F46E5?style=flat-square&logo=databricks&logoColor=white" height="48"/>
 </p>
 
 ### Frontend
@@ -67,20 +66,25 @@ I approach every project with a **product engineering mindset**: understand the 
 ### Backend & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs&theme=dark"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-6D28D9?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/EF%20Core-7C3AED?style=flat-square&logo=dotnet&logoColor=white" height="48"/>
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark"/>
 </p>
 
-### Design, DevOps & Tooling
+<p align="left">
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/SQL%20Server-4F46E5?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/Entity%20Framework%20Core-6D28D9?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/T--SQL-7C3AED?style=for-the-badge&logo=databricks&logoColor=white"/></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/REST%20API-8B5CF6?style=for-the-badge&logo=postman&logoColor=white"/></a>
+</p>
+
+### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,ps,postman&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma&theme=dark"/>
 </p>
 
 ---
 
-## Frontend & UX/UI Expertise
+## Technical Expertise
 
 | Domain | Proficiency | Details |
 |:--|:--|:--|
@@ -89,7 +93,7 @@ I approach every project with a **product engineering mindset**: understand the 
 | **UI Frameworks** | ![](https://img.shields.io/badge/-Advanced-7C3AED?style=flat-square) | Tailwind CSS, MUI, Bootstrap, SASS |
 | **API Integration** | ![](https://img.shields.io/badge/-Proficient-6D28D9?style=flat-square) | RESTful APIs, Axios, JWT authentication |
 | **Backend (.NET)** | ![](https://img.shields.io/badge/-Intermediate-4F46E5?style=flat-square) | ASP.NET Core MVC, Web API, Entity Framework Core |
-| **UX/UI Design** | ![](https://img.shields.io/badge/-Proficient-6D28D9?style=flat-square) | Figma, wireframing, design systems, responsive layouts |
+| **Databases** | ![](https://img.shields.io/badge/-Intermediate-4F46E5?style=flat-square) | SQL Server, T-SQL, database design |
 
 ---
 
@@ -207,20 +211,26 @@ Developed and maintained full-stack web applications, building responsive front-
 - Built reusable React components following a component-based architecture
 - Integrated RESTful APIs and improved data retrieval performance
 - Participated in code reviews and quality control processes
-- Collaborated with designers to deliver user-focused interfaces
+- Collaborated with the team to deliver user-focused features
 
-![React](https://img.shields.io/badge/React-4F46E5?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-6D28D9?style=flat-square&logo=typescript&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-7C3AED?style=flat-square&logo=dotnet&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-8B5CF6?style=flat-square&logo=postman&logoColor=white)
+<a href="#experience"><img src="https://img.shields.io/badge/React-4F46E5?style=flat-square&logo=react&logoColor=white"/></a>
+<a href="#experience"><img src="https://img.shields.io/badge/TypeScript-6D28D9?style=flat-square&logo=typescript&logoColor=white"/></a>
+<a href="#experience"><img src="https://img.shields.io/badge/ASP.NET-7C3AED?style=flat-square&logo=dotnet&logoColor=white"/></a>
+<a href="#experience"><img src="https://img.shields.io/badge/REST%20API-8B5CF6?style=flat-square&logo=postman&logoColor=white"/></a>
 
 ### Front-End Developer Intern — TechHub Solutions
 **Remote** · *2024*
 
-Contributed to front-end development of web interfaces with a focus on responsive design and UI/UX quality.
+Contributed to front-end development of web interfaces with a focus on responsive design and clean code.
 
-- Converted Figma designs into responsive, production-ready pages
+- Converted designs into responsive, production-ready pages
 - Improved UI consistency and usability across screens
 - Worked within a team using Git-based workflows
 
-![JavaScript](https://img.shields.io/badge/JavaScript-4F46E5?style=flat-square&logo=javascript&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-6D28D9?style=flat-square&logo=figma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7C3AED?style=flat-square&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white)
+<a href="#experience"><img src="https://img.shields.io/badge/JavaScript-4F46E5?style=flat-square&logo=javascript&logoColor=white"/></a>
+<a href="#experience"><img src="https://img.shields.io/badge/HTML5-6D28D9?style=flat-square&logo=html5&logoColor=white"/></a>
+<a href="#experience"><img src="https://img.shields.io/badge/Bootstrap-7C3AED?style=flat-square&logo=bootstrap&logoColor=white"/></a>
+<a href="#experience"><img src="https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white"/></a>
 
 ---
 
@@ -232,9 +242,9 @@ Contributed to front-end development of web interfaces with a focus on responsiv
 |:--|:--|
 | **Performance Optimization** | Improved page load speed by 15% across 3 high-traffic web applications |
 | **Data Efficiency** | Reduced critical data retrieval time by 20% |
-| **UX Impact** | Increased feature adoption and engagement by 25% through UI/UX redesign |
+| **User Engagement** | Increased feature adoption and engagement by 25% through interface improvements |
 | **Code Quality** | Reduced reported bugs by 30% over six months via rigorous code review |
-| **Design Handover** | Cut design-to-development handover time by 15% |
+| **Faster Delivery** | Cut design-to-development handover time by 15% |
 
 </div>
 
@@ -280,21 +290,11 @@ Contributed to front-end development of web interfaces with a focus on responsiv
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlshimaaAlnajjar&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlshimaaAlnajjar&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4F46E5&hide_border=true" width="100%"/>
+<img src="https://ghchart.rshah.org/7C3AED/AlshimaaAlnajjar" width="100%" alt="Contribution chart"/>
 
 </div>
 
@@ -319,7 +319,6 @@ Contributed to front-end development of web interfaces with a focus on responsiv
 learning:
   - Advanced ASP.NET Core Web API & Clean Architecture
   - Next.js and server-side rendering
-  - Advanced UX/UI design systems in Figma
 
 building:
   - Full-stack applications with React + ASP.NET Core
@@ -351,7 +350,7 @@ open_to:
 
 <div align="center">
 
-<i>"Design with empathy, build with precision, ship with purpose."</i>
+<i>"Clean code. Scalable systems. Real impact."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:4F46E5,100:1E1B4B&height=120&section=footer" width="100%"/>
 
