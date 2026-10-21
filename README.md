@@ -19,7 +19,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/AlshimaaAlnajjar/My-Portfolio"><img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=firefoxbrowser&logoColor=A78BFA"/></a>
 <a href="https://www.linkedin.com/in/alshimaa-alnajjar-a81914292"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:alshimaaalnajjar@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/AlshimaaAlnajjar"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -245,24 +244,24 @@ Contributed to front-end development of web interfaces with a focus on responsiv
 
 **Route Academy**
 
-![Full-Stack Diploma](https://img.shields.io/badge/Full--Stack%20Development%20Diploma%20(React%20%2B%20ASP.NET)-4F46E5?style=for-the-badge&logo=dotnet&logoColor=white)
+<a href="#certifications"><img src="https://img.shields.io/badge/Full--Stack%20Development%20Diploma%20(React%20%2B%20ASP.NET)-4F46E5?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
 
 **Microsoft**
 
-![MOS](https://img.shields.io/badge/Microsoft%20Office%20Specialist%20(Excel%2C%20Word%2C%20PowerPoint)-6D28D9?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing%20Fundamentals-6D28D9?style=for-the-badge&logo=microsoft&logoColor=white)
+<a href="#certifications"><img src="https://img.shields.io/badge/Microsoft%20Office%20Specialist%20(Excel%2C%20Word%2C%20PowerPoint)-6D28D9?style=for-the-badge&logo=microsoftoffice&logoColor=white"/></a>
+<a href="#certifications"><img src="https://img.shields.io/badge/Digital%20Marketing%20Fundamentals-6D28D9?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
 
 **Cisco**
 
-![ICDL](https://img.shields.io/badge/ICDL%20Certificate-7C3AED?style=for-the-badge&logo=cisco&logoColor=white)
+<a href="#certifications"><img src="https://img.shields.io/badge/ICDL%20Certificate-7C3AED?style=for-the-badge&logo=cisco&logoColor=white"/></a>
 
 **Udemy**
 
-![JavaScript](https://img.shields.io/badge/JavaScript%20Course-8B5CF6?style=for-the-badge&logo=udemy&logoColor=white)
+<a href="#certifications"><img src="https://img.shields.io/badge/JavaScript%20Course-8B5CF6?style=for-the-badge&logo=udemy&logoColor=white"/></a>
 
 **Leadership**
 
-![Team Leader](https://img.shields.io/badge/Certified%20Team%20Leader-312E81?style=for-the-badge&logo=target&logoColor=white)
+<a href="#certifications"><img src="https://img.shields.io/badge/Certified%20Team%20Leader-312E81?style=for-the-badge&logo=target&logoColor=white"/></a>
 
 ---
 
@@ -344,7 +343,6 @@ open_to:
 <a href="mailto:alshimaaalnajjar@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E1B4B?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
 <a href="https://www.linkedin.com/in/alshimaa-alnajjar-a81914292"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/AlshimaaAlnajjar"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/AlshimaaAlnajjar/My-Portfolio"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/></a>
 <a href="https://mostaql.com/u/Alshimaa277"><img src="https://img.shields.io/badge/Mostaql-8B5CF6?style=for-the-badge&logo=upwork&logoColor=white"/></a>
 
 </div>
