@@ -112,7 +112,7 @@ A modern Amazon-style shopping platform with authentication, product browsing, c
 | **Performance** | Server-state caching with React Query, lazy loading, loading states |
 | **Security** | JWT authentication, protected routes, validated forms (Formik + Yup) |
 | **Impact** | Covers the complete e-commerce user journey end to end |
-| **Repository** | [AlshimaaAlnajjar/E-commereWebsite](https://github.com/AlshimaaAlnajjar/E-commereWebsite.git) |
+| **Repository** | [AlshimaaAlnajjar/E-commereWebsite](https://github.com/AlshimaaAlnajjar/E-commereWebsite) |
 
 Built on a component-based architecture with centralized state in Redux Toolkit and a clean data layer using Axios and React Query for fetching, caching, and synchronization.
 
@@ -192,7 +192,7 @@ A React application for browsing meals and recipes.
 | **Performance** | Reusable components and efficient re-rendering |
 | **Security** | Client-side data handling |
 | **Impact** | Strong foundation in hooks, props, state and routing |
-| **Repository** | [AlshimaaAlnajjar/Mealify-react](https://github.com/AlshimaaAlnajjar/Mealify-react.git) |
+| **Repository** | [AlshimaaAlnajjar/Mealify-react](https://github.com/AlshimaaAlnajjar/Mealify-react) |
 
 Covers core React patterns including functional components, hooks, and API-driven rendering.
 
