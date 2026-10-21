@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4F46E5,100:8B5CF6&height=220&section=header&text=Alshimaa%20Alnajjar&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UX%2FUI%20Designer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4F46E5,100:8B5CF6&height=220&section=header&text=Alshimaa%20Alnajjar&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React.js+%7C+TypeScript+%7C+ASP.NET+Core;UX%2FUI+Designer+%7C+Figma;Smart+Systems+Engineering+Student" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React.js+%7C+TypeScript+%7C+ASP.NET+Core;Building+Scalable+Web+Applications;Smart+Systems+Engineering+Student" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -45,7 +45,6 @@ I approach every project with a **product engineering mindset**: understand the 
 **Open To**
 
 - Front-End / Full-Stack Developer roles
-- UX/UI Design collaborations
 - Remote and freelance opportunities
 - Internships and open-source contributions
 
