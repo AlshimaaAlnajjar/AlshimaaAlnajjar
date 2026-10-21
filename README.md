@@ -36,7 +36,7 @@
 
 ## About Me
 
-I am a **Full-Stack Web Developer** and **UX/UI Designer** based in Gaza, Palestine, and a **Smart Systems Engineering** student at Al-Aqsa University. I specialize in building fast, responsive, and maintainable web applications with **React.js, TypeScript, and ASP.NET Core**.
+I am a **Full-Stack Web Developer** based in Gaza, Palestine, and a **Smart Systems Engineering** student at Al-Aqsa University. I specialize in building fast, responsive, and maintainable web applications with **React.js, TypeScript, and ASP.NET Core**.
 
 Through my Full-Stack Diploma at **Route Academy** and hands-on industry experience, I build component-based front-ends, integrate RESTful APIs, and design back-end services with clean architecture in mind. My design background in **Figma** lets me bridge the gap between design and engineering — shipping interfaces that are both visually polished and technically solid.
 
