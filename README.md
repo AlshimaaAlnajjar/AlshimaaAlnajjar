@@ -267,6 +267,7 @@ Contributed to front-end development of web interfaces with a focus on responsiv
 
 ---
 
+<!--
 ## GitHub Analytics
 
 <div align="center">
@@ -290,6 +291,7 @@ Contributed to front-end development of web interfaces with a focus on responsiv
 </div>
 
 ---
+-->
 
 ## Current Focus
 
