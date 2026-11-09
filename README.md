@@ -271,16 +271,12 @@ Contributed to front-end development of web interfaces with a focus on responsiv
 
 <div align="center">
 
-<a href="#github-analytics"><img src="https://github-readme-stats.vercel.app/api?username=AlshimaaAlnajjar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED&rank_icon=github" height="165"/></a>
-<a href="#github-analytics"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlshimaaAlnajjar&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="165"/></a>
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%"/>
 
-<br/>
-
-<a href="#github-analytics"><img src="https://streak-stats.demolab.com?user=AlshimaaAlnajjar&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=4F46E5" height="165"/></a>
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%"/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%"/>
 
 </div>
-
----
 
 ## Contribution Activity
 
